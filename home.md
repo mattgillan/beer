@@ -1,4 +1,4 @@
 <!-- TITLE: Tardigrade Beer -->
 <!-- SUBTITLE: Recipe Database -->
 
-# Yay
+# Recipes can be uploaded and go here...
