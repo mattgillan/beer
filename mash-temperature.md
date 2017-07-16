@@ -11,53 +11,11 @@ The starches in the mash are about 90% soluble at 54.5°C and reach maximum solu
 | Enzyme       |Optimum Temperature Range	| Working pH Range | Function |
 | ------------- | ------------- | ------------- | ------------- |
 | Phytase | 30-52°C | 5.0-5.5 | Lowers the mash pH. No longer used. |
-
-Debranching (var.)
-
-95-113°F
-
-5.0-5.8
-
-Solubilization of starches.
-
-Beta Glucanase
-
-95-113°F
-
-4.5-5.5
-
-Best gum breaking rest.
-
-Peptidase
-
-113-131°F
-
-4.6-5.3
-
-Produces Free Amino Nitrogen (FAN).
-
-Protease
-
-113-131°F
-
-4.6-5.3
-
-Breaks up large proteins that form haze.
-
-Beta Amylase
-
-131-150°F
-
-5.0-5.5
-
-Produces maltose.
-
-Alpha Amylase
-
-154-162°F
-
-5.3-5.7
-
-Produces a variety of sugars, including maltose.
+| Debranching (var.) | 35-45°C | 5.0-5.8 | Solubilization of starches. |
+| Beta Glucanase | 35-45°C | 4.5-5.5 | Best gum breaking rest. |
+| Peptidase | 45-55°C | 4.6-5.3 | Produces Free Amino Nitrogen (FAN). |
+| Protease | 45-55°C | 4.6-5.3 | Breaks up large proteins that form haze. |
+| Beta Amylase | 55-65.5°C | 5.0-5.5 | Produces maltose. |
+| Alpha Amylase | 67.7-72.2°C | 5.3-5.7 | Produces a variety of sugars, including maltose. |
 
 Note: The above numbers were averaged from several sources and should be interpreted as typical optimum activity ranges. The enzymes will be active outside the indicated ranges but will be destroyed as the temperature increases above each range.
