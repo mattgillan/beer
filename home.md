@@ -3,4 +3,4 @@
 
 # Recipes can be uploaded and go here...
 
-[Ladies And Gentlemen Of Adinstruments](/uploads/ladies-and-gentlemen-of-adinstruments.docx "Ladies And Gentlemen Of Adinstruments")
+[Beer priming calculator](https://www.brewersfriend.com/beer-priming-calculator/)
