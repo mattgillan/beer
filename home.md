@@ -1,6 +1,6 @@
 <!-- TITLE: Tardigrade Beer -->
-<!-- SUBTITLE: Recipe Database -->
+<!-- SUBTITLE: Moss Piggy!!! -->
 
-# Recipes can be uploaded and go here...
+# Index
 
 [Beer priming calculator](https://www.brewersfriend.com/beer-priming-calculator/)
