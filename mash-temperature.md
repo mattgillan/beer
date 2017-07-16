@@ -10,14 +10,7 @@ The starches in the mash are about 90% soluble at 54.5°C and reach maximum solu
 
 | Enzyme       |Optimum Temperature Range	| Working pH Range | Function |
 | ------------- | ------------- | ------------- | ------------- |
-
-Phytase
-
-86-126°F
-
-5.0-5.5
-
-Lowers the mash pH. No longer used.
+| Phytase | 30-52°C | 5.0-5.5 | Lowers the mash pH. No longer used. |
 
 Debranching (var.)
 
