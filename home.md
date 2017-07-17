@@ -5,6 +5,7 @@
 
 [Gelatin](https://tardigrade.pro/gelatin)
 [Hops](https://tardigrade.pro/hops-wheel)
+[Malts](https://tardigrade.pro/malts)
 [Mash](https://tardigrade.pro/mash-temperature)
 [Priming](https://www.brewersfriend.com/beer-priming-calculator/)
 
