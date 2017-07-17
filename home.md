@@ -4,12 +4,12 @@
 # Index
 
 [Gelatin](gelatin)
-[Hops](https://tardigrade.pro/hops-wheel)
-[Malts](https://tardigrade.pro/malts)
-[Mash](https://tardigrade.pro/mash-temperature)
+[Hops](hops-wheel)
+[Malts](malts)
+[Mash](mash-temperature)
 [Priming](https://www.brewersfriend.com/beer-priming-calculator/)
-[Recipes](https://tardigrade.pro/recipes)
-[Videos](https://tardigrade.pro/videos)
+[Recipes](recipes)
+[Videos](videos)
 
 
 ![Tardigrade Front](/uploads/tardigrade-front.jpg "Tardigrade Front")
