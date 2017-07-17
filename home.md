@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Moss Piggy!!! -->
 
 # Index
-
+[Calculators](calculators)
 [Gelatin](gelatin)
 [Hops](hops-wheel)
 [Malts](malts)
