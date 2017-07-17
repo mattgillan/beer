@@ -1,6 +1,9 @@
 <!-- TITLE: Hops -->
 
 # Hops
+NZ Hops Details (2017) - To Add to Beersmith:
+![Nzhops](/uploads/nzhops.png "Nzhops")
+
 
 | Hop Variety | Possible Substitutes |
 | --------------- | --------------- |
