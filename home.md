@@ -8,6 +8,6 @@
 [Malts](https://tardigrade.pro/malts)
 [Mash](https://tardigrade.pro/mash-temperature)
 [Priming](https://www.brewersfriend.com/beer-priming-calculator/)
-[Video](https://tardigrade.pro/videos)
+[Videos](https://tardigrade.pro/videos)
 
 ![Tardigrade Front](/uploads/tardigrade-front.jpg "Tardigrade Front")
