@@ -1,10 +1,10 @@
 <!-- TITLE: Hops -->
 
-# Hops
-NZ Hops Details (2017) - To Add to Beersmith:
+# NZ Hops Details (2017)
+To Add to Beersmith:
 ![Nzhops](/uploads/nzhops.png "Nzhops")
 
-
+# Hop Substitution Table
 | Hop Variety | Possible Substitutes |
 | --------------- | --------------- |
 | Admiral |	Target, Northdown, Challenger |
@@ -60,4 +60,5 @@ NZ Hops Details (2017) - To Add to Beersmith:
 | Warrior |	Nugget, Columbus |
 | Willamette |	Styrian Golding, Target, Fuggle, Tettnanger, Glacier |
 
+# Hop Character Wheel
 ![Hopswheel](/uploads/hopswheel.jpg "Hopswheel")
