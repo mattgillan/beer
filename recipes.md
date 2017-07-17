@@ -7,3 +7,4 @@
 [Apa With Gus And Tristan](/uploads/apa-with-gus-and-tristan.bsmx "Apa With Gus And Tristan")
 [Digital Ipa](/uploads/digital-ipa.bsmx "Digital Ipa")
 [Tardigrades PA 1](/uploads/tardigrades-pa-1.bsmx "Tardigrades Pa 1")
+[Emersons Bookbinder Clone](/uploads/emersons-bookbinder-clone.bsmx "Emersons Bookbinder Clone")
