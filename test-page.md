@@ -73,7 +73,8 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 # Tables
-
+# YouTtube Videos
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 # Blockquotes
 Blockquotes are explained in details in the [Editor Blockquotes](https://docs.wiki.requarks.io/user-guide/blockquotes) page.
 
