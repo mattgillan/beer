@@ -1,6 +1,7 @@
 <!-- TITLE: Calculators -->
 
-
+# Priming with Table Sugar
+Table sugar, sucrose, does not contain any water and yeast will convert half of its weight to CO2
 # H2O required to hit target gravity
 <iframe src="https://jscalc.io/embed/BBpyVIJ8PpjVuN6b" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0" style="border: 1px solid rgba(0,0,0,0.12)"></iframe>
 
