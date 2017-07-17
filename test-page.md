@@ -68,7 +68,10 @@ In the above example, Section A and B are top level headers and Section A has a 
 # Images
 
 # Code
-
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 # Tables
 
 # Blockquotes
