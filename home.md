@@ -9,3 +9,5 @@
 [Priming](https://www.brewersfriend.com/beer-priming-calculator/)
 
 ![Tardigrade Front](/uploads/tardigrade-front.jpg "Tardigrade Front")
+
+[Chop and Brew] http://chopandbrew.com/episodes/chop-brew-episode-34-bad-ass-saison-with-nathan-smith/ 
