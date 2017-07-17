@@ -1,6 +1,6 @@
-<!-- TITLE: Mash Temperature -->
+<!-- TITLE: Mash -->
 
-# Mash Temperature Chart
+# Mash
 ![Mash Temps](/uploads/mash-temps.gif "Mash Temps")
 
 There are several key enzyme groups that take part in the conversion of the grain starches to sugars. During malting, the debranching, beta-glucanase and proteolytic enzymes do their work, preparing the starches for easy access and conversion to sugars. During the mash, a limited amount of further modification can be accomplished, but the main event is the conversion of starch molecules into fermentable sugars and unfermentable dextrins by the diastatic enzymes. Each of these enzyme groups is favored by different temperature and pH conditions. A brewer can adjust the mash temperature to favor each successive enzyme's function and thereby customize the wort to their taste and purpose.
