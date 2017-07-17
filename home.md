@@ -3,7 +3,7 @@
 
 # Index
 
-[Gelatin](https://tardigrade.pro/gelatin)
+[Gelatin](gelatin)
 [Hops](https://tardigrade.pro/hops-wheel)
 [Malts](https://tardigrade.pro/malts)
 [Mash](https://tardigrade.pro/mash-temperature)
