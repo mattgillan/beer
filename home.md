@@ -7,7 +7,6 @@
 [Hops](hops-wheel)
 [Malts](malts)
 [Mash](mash-temperature)
-[Priming](https://www.brewersfriend.com/beer-priming-calculator/)
 [Recipes](recipes)
 [Videos](videos)
 
