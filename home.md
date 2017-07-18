@@ -1,7 +1,6 @@
 <!-- TITLE: Tardigrade Beer -->
 # Index
 > [Calculators](calculators)
-> {.is-danger}
 
 > [Gelatin](gelatin)
 
