@@ -1,4 +1,4 @@
-<!-- TITLE: Tardigrade Beer -->
+<!-- TITLE: Tardigrade Beer :beer: -->
 # Index
 > [Calculators](calculators)
 
