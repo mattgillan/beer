@@ -1,5 +1,6 @@
 <!-- TITLE: Tardigrade Beer -->
 # Index
+> Default
 [Calculators](calculators)
 [Gelatin](gelatin)
 [Hops](hops-wheel)
