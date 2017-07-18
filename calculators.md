@@ -12,5 +12,5 @@ The original formula uses Fahrenheit:  $$^{\circ}F = ^{\circ}C * 9/5 + 32$$
 # H2O Addition - Target Gravity
 <iframe src="https://jscalc.io/embed/BBpyVIJ8PpjVuN6b" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0" style="border: 1px solid rgba(0,0,0,0.12)"></iframe>
 
-# H2O Addition - Desired Volume
+# H2O Addition - Required Volume
 <iframe src="https://jscalc.io/embed/6oIBAxKRCrw1CfG3" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0" style="border: 1px solid rgba(0,0,0,0.12)"></iframe>
