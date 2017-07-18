@@ -2,6 +2,10 @@
 
 # Priming with Table Sugar
 Table sugar, sucrose, does not contain any water and yeast will convert half of its weight to CO2
+
+<iframe src="https://jscalc.io/calc/O0zjWMjlAFDwFjxX" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0" style="border: 1px solid rgba(0,0,0,0.12)"></iframe>
+
+Calculations shoulkd work out the same as using https://www.brewersfriend.com/beer-priming-calculator/
 # H2O required to hit target gravity
 <iframe src="https://jscalc.io/embed/BBpyVIJ8PpjVuN6b" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0" style="border: 1px solid rgba(0,0,0,0.12)"></iframe>
 
