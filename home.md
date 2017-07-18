@@ -12,4 +12,4 @@
 
 > [Recipes](recipes)
 
-> [Videos](videos)
+> [Videos](videos)**
