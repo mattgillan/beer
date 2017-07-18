@@ -9,6 +9,3 @@
 [Mash](mash-temperature)
 [Recipes](recipes)
 [Videos](videos)
-
-
-![Tardigrade Front](/uploads/tardigrade-front.jpg "Tardigrade Front")
