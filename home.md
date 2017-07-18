@@ -1,6 +1,4 @@
 <!-- TITLE: Tardigrade Beer -->
-<!-- SUBTITLE: Moss Piggy!!! -->
-
 # Index
 [Calculators](calculators)
 [Gelatin](gelatin)
