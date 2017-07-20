@@ -1,5 +1,5 @@
-<!-- TITLE: Tardigrade Beer -->
-# Index :beer:
+<!-- TITLE: Tardigrade Brewing -->
+# Index
 > [Calculators](calculators)
 
 > [Gelatin](gelatin)
