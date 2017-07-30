@@ -11,3 +11,4 @@
 [Tardigrades Triple Pacific Star](/uploads/tardigrades-triple-pacific-star.bsmx "Tardigrades Triple Pacific Star")
 [Tardigrades Stickler Ipa](/uploads/tardigrades-stickler-ipa.bsmx "Tardigrades Stickler Ipa")
 [Digi Revised](/uploads/digi-revised.bsmx "Digi Revised")
+[The Resurrection Ale](/uploads/the-resurrection-ale.bsmx "The Resurrection Ale")
